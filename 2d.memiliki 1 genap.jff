@@ -38,5 +38,22 @@
 			<to>0</to>&#13;
 			<read>1</read>&#13;
 		</transition>&#13;
+		<note>&#13;
+			<text>2D.input 1 berjumlah genap
+*terima
+-1111
+-11
+-1010101
+-1001
+
+*tolak
+-1
+-10101
+-111
+-100
+-001</text>&#13;
+			<x>671.0</x>&#13;
+			<y>157.0</y>&#13;
+		</note>&#13;
 	</automaton>&#13;
 </structure>

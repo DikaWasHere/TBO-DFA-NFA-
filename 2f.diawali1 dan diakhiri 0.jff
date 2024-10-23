@@ -27,6 +27,16 @@
 			<read>0</read>&#13;
 		</transition>&#13;
 		<transition>&#13;
+			<from>3</from>&#13;
+			<to>3</to>&#13;
+			<read>0</read>&#13;
+		</transition>&#13;
+		<transition>&#13;
+			<from>3</from>&#13;
+			<to>1</to>&#13;
+			<read>1</read>&#13;
+		</transition>&#13;
+		<transition>&#13;
 			<from>2</from>&#13;
 			<to>2</to>&#13;
 			<read>1</read>&#13;
@@ -51,5 +61,24 @@
 			<to>2</to>&#13;
 			<read>0</read>&#13;
 		</transition>&#13;
+		<note>&#13;
+			<text>2f.diawali 1 dan diakhiri 0
+*terima
+-10
+-110
+-11110
+-1010
+-1000
+
+*tolak
+-01
+-011
+-00
+-1111
+-1001
+</text>&#13;
+			<x>842.0</x>&#13;
+			<y>93.0</y>&#13;
+		</note>&#13;
 	</automaton>&#13;
 </structure>
